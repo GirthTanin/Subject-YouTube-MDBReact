@@ -26,12 +26,12 @@ class HomePage extends React.Component {
             >
               <CardBody>
                 <h2 className="h2-responsive mb-4">
-                  <strong>MDB React Demo App</strong>
+                  <strong>I'm so nervous I just want to throw up.</strong>
                 </h2>
-                <p>React Bootstrap with Material Design</p>
+                <p>React wouldn't be so terrible if I could find everything.</p>
                 <p className="pb-4">
                   This application shows the actual use of MDB React components
-                  in the application.
+                  in the application and how poorly I can get them to obey me, rather than the creators.
                 </p>
                 <Row className="d-flex flex-row justify-content-center row">
                   <a

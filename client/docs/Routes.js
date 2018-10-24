@@ -11,6 +11,7 @@ import ComponentsNavPage from "./pages/ComponentsNavPage";
 
 // FREE
 import AnimationPage from "./pages/AnimationPage";
+// I have started to change things on the HomePage
 import HomePage from "./pages/HomePage";
 import ButtonPage from "./pages/ButtonPage";
 import CSSPage from "./pages/CSSPage";

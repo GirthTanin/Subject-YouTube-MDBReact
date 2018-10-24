@@ -1,5 +1,6 @@
 import React, { Component } from "react";
 import PropTypes from "prop-types";
+// I think classNames is where the names of the buttons are hidden.
 import classNames from "classnames";
 
 class Nav extends Component {

@@ -1,5 +1,7 @@
 body {
-	background:#ededed;
+  /* I changed this... */
+  background: #f8f8f8;
+	/* background:#ededed; */
 }
 
 a.border.nav-link.border-light.rounded.mr-1 {
@@ -7,11 +9,13 @@ a.border.nav-link.border-light.rounded.mr-1 {
 }
 
 a.border.nav-link.border-light.rounded.mr-1:hover {
-  color: #1C2331;
+  /* color: #1C2331; */
+  color: red;
 }
 
 .btn.btn-sm.indigo:hover{
-  color: #fff;
+  /* color: #fff; */
+  color: red;
 }
 
 .nav-link.active{
