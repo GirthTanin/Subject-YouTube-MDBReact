@@ -62,9 +62,11 @@ class CSSPage extends React.Component {
                   placeholder="Series Id: 1/4 or 64/81 for example"
                 />
               </div>
-              <Button outline color="success">
-            Submit
-          </Button>
+              <div className="text-center mt-4">
+                              <button type="submit" className="btn btn-unique btn-md">
+                                Submit
+                              </button>
+                            </div>
         </form>
       </Container>
     );

@@ -48,7 +48,7 @@ class ComponentsPage extends React.Component {
                           </div>
                           
                             <div className="text-center mt-4">
-                              <button type="submit" className="btn btn-primary btn-md">
+                              <button type="submit" className="btn btn-unique btn-md">
                                 Sign in
                               </button>
                             </div>

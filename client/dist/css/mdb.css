@@ -345,7 +345,10 @@
   background-color: #303f9f !important; }
 
 .indigo.darken-3 {
-  background-color: #f8f8f8 !important;
+  
+  background-color: #880e4f !important;
+  color: #fff !important;
+  /* background-color: #f8f8f8 !important; */
   /* background-color: #283593 !important; */
  }
 
