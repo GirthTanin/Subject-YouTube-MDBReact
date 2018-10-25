@@ -1,89 +1,89 @@
 {
-    "title": "",
-    "tutor": "",
+    "title": "Learn React - React Crash Course 2018 - React Tutorial with Examples",
+    "tutor": "Programming with Mosh",
     "series": false,
-    "url": "",
+    "url": "https://www.youtube.com/embed/Ke90Tje7VS0",
+    "useful": 1,
+    "notUseful": 1,
+    "seriesId": ""
+}
+{
+    "title": "Build React Native Chat App In 30 Minutes",
+    "tutor": "Coding Tech",
+    "series": false,
+    "url": "https://www.youtube.com/embed/7Ot5LSGHLyY",
+    "useful": 1,
+    "notUseful": 3,
+    "seriesId": ""
+}
+{
+    "title": "React Router tutorial for beginners | React Router v4 2018",
+    "tutor": "Hamza Mirza",
+    "series": false,
+    "url": "https://www.youtube.com/embed/91F8reC8kvo",
     "useful": 1,
     "notUseful": 0,
     "seriesId": ""
 }
 {
-    "title": "",
-    "tutor": "",
+    "title": "React JS Crash Course",
+    "tutor": "Traversy Media",
     "series": false,
-    "url": "",
+    "url": "https://www.youtube.com/embed/A71aqufiNtQ",
+    "useful": 4,
+    "notUseful": 0,
+    "seriesId": ""
+}
+{
+    "title": "ReactJS Tutorial for Beginners - Getting Started with React",
+    "tutor": "Academind",
+    "series": false,
+    "url": "https://www.youtube.com/embed/pgAvVxowaYU",
     "useful": 1,
     "notUseful": 0,
     "seriesId": ""
 }
 {
-    "title": "",
-    "tutor": "",
+    "title": "React Fundamentals - Full Course for Beginners",
+    "tutor": "freeCodeCamp.org",
     "series": false,
-    "url": "",
+    "url": "https://www.youtube.com/embed/6Ied4aZxUzc",
     "useful": 1,
     "notUseful": 0,
     "seriesId": ""
 }
 {
-    "title": "",
-    "tutor": "",
+    "title": "React Basics - Beau teaches JavaScript",
+    "tutor": "freeCodeCamp.org",
     "series": false,
-    "url": "",
+    "url": "https://www.youtube.com/embed/QqLkkBKVDyM",
     "useful": 1,
     "notUseful": 0,
     "seriesId": ""
 }
 {
-    "title": "",
-    "tutor": "",
+    "title": "HTTP Requests in React with Axios | React tutorial for beginners",
+    "tutor": "Hamza Mirza",
     "series": false,
-    "url": "",
+    "url": "https://www.youtube.com/embed/M-X0Jw2e68A",
     "useful": 1,
     "notUseful": 0,
     "seriesId": ""
 }
 {
-    "title": "",
-    "tutor": "",
+    "title": "https://www.youtube.com/embed/M-X0Jw2e68A",
+    "tutor": "CS50",
     "series": false,
-    "url": "",
+    "url": "https://www.youtube.com/embed/3HMtarQAt3A",
     "useful": 1,
     "notUseful": 0,
     "seriesId": ""
 }
 {
-    "title": "",
-    "tutor": "",
+    "title": "React Component Patterns by Michael Chan",
+    "tutor": "Full Stack Talks",
     "series": false,
-    "url": "",
-    "useful": 1,
-    "notUseful": 0,
-    "seriesId": ""
-}
-{
-    "title": "",
-    "tutor": "",
-    "series": false,
-    "url": "",
-    "useful": 1,
-    "notUseful": 0,
-    "seriesId": ""
-}
-{
-    "title": "",
-    "tutor": "",
-    "series": false,
-    "url": "",
-    "useful": 1,
-    "notUseful": 0,
-    "seriesId": ""
-}
-{
-    "title": "",
-    "tutor": "",
-    "series": false,
-    "url": "",
+    "url": "https://www.youtube.com/embed/YaZg8wg39QQ",
     "useful": 1,
     "notUseful": 0,
     "seriesId": ""
