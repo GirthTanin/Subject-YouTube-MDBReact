@@ -7,10 +7,10 @@ class IframePage extends Component {
     return (
       <Container className="text-center">
         <DocsLink
-          title="Iframe"
-          href="https://mdbootstrap.com/react/addons/iframe/"
+          title="You are logged out! Thanks for choosing [Subject] YouTube!"
+          href="/css"
         />
-        <Iframe src="https://www.youtube.com/embed/v64KOxKVLVg" />
+        <Iframe src="https://www.youtube.com/embed/q81suQISQok" />
       </Container>
     );
   }

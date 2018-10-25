@@ -128,7 +128,7 @@ class App extends Component {
                 <NavItem>
                   <NavLink
                     onClick={this.closeCollapse("mainNavbarCollapse")}
-                    to="/addons" 
+                    to="/addons/iframe" 
                   >
                     LOG OUT
                   </NavLink>

@@ -14,7 +14,7 @@ class CSSPage extends React.Component {
           title="Insert Embedded URL "
           href="/css"
         />
-        <Iframe height={500} src="https://www.youtube.com/embed/q81suQISQok" />
+        <Iframe height={500} src="https://www.youtube.com/embed/7DG3kCDx53c" />
 
 
         <form>
