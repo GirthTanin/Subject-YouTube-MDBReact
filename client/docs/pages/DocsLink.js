@@ -14,8 +14,8 @@ const DocsLink = props => {
           href={props.href + "/?utm_source=DemoApp&utm_medium=MDBReactPro"}
           rel="noopener noreferrer"
         >
-          <Fa icon="graduation-cap" className="mr-2" />
-          Docs
+          <Fa icon="database" className="mr-2" />
+          What's up Doc?
         </a>
       </Row>
       <hr className="mb-5" />

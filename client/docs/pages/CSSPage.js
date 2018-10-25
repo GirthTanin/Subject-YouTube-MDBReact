@@ -1,12 +1,78 @@
 import React from "react";
-import { Container, Row, Col, Jumbotron, Fa, NavLink } from "mdbreact";
+// import { Container, Row, Col, Jumbotron, Fa, NavLink } from "mdbreact";
+import { Container, Iframe } from "mdbreact";
+import DocsLink from "./DocsLink";
 
 class CSSPage extends React.Component {
   render() {
     return (
-      <Container>
-        <Row>
-          <Col md="8" className="mx-auto">
+      // <Container>
+      //   <Row>
+      <Container className="text-center">
+
+        <DocsLink
+          title="Insert Embedded URL "
+          href="/css"
+        />
+        <Iframe height={500} src="https://www.youtube.com/embed/q81suQISQok" />
+
+
+        <form>
+              <div className="form-group">
+                <label htmlFor="formGroupExampleInput"></label>
+                <input
+                  type="text"
+                  className="form-control form-control-sm"
+                  id="formGroupExampleInput"
+                  placeholder="Title"
+                />
+              </div>
+              <div className="form-group">
+                <label htmlFor="formGroupExampleInput2"></label>
+                <input
+                  type="text"
+                  className="form-control form-control-sm"
+                  id="formGroupExampleInput2"
+                  placeholder="Tutor"
+                />
+              </div>
+              <div className="form-group">
+                <label htmlFor="formGroupExampleInput"></label>
+                <input
+                  type="text"
+                  className="form-control form-control-sm"
+                  id="formGroupExampleInput"
+                  placeholder="Series? This really should be a Booleon button maybe?  IF it doesn't look like crap"
+                />
+              </div><div className="form-group">
+                <label htmlFor="formGroupExampleInput"></label>
+                <input
+                  type="text"
+                  className="form-control form-control-sm"
+                  id="formGroupExampleInput"
+                  placeholder="Embeded URL address"
+                />
+              </div>
+              <div className="form-group">
+                <label htmlFor="formGroupExampleInput"></label>
+                <input
+                  type="text"
+                  className="form-control form-control-sm"
+                  id="formGroupExampleInput"
+                  placeholder="Series Id: 1/4 or 64/81 for example"
+                />
+              </div>
+            </form>
+      </Container>
+    );
+  }
+}
+
+
+
+
+
+          {/* <Col md="8" className="mx-auto">
             <Jumbotron className="mt-3">
               <h1>
                 <Fa icon="css3" className="grey-text" /> CSS
@@ -75,11 +141,11 @@ class CSSPage extends React.Component {
                 </NavLink>
               </ul>
             </Jumbotron>
-          </Col>
-        </Row>
-      </Container>
-    );
-  }
-}
+          </Col> */}
+//         </Row>
+//       </Container>
+//     );
+//   }
+// }
 
 export default CSSPage;
