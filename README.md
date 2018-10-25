@@ -1,4 +1,4 @@
-# ![WebApp](https://github.com/GirthTanin/Subject-YouTube/blob/master/subject-youtube/client/public/subject_youtube_logo.png)
+# ![WebApp](https://github.com/GirthTanin/Subject-YouTube-MDBReact/blob/master/subject-youtube/client/public/subject_youtube_logo.png)
 
 ## Description
 Web based tutorial learning without any distractions
