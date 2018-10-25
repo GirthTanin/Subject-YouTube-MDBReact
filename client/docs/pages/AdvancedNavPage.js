@@ -7,6 +7,7 @@ class AdvancedPage extends React.Component {
       <Container>
         <Row>
           <Col md="8" className="mt-3 mx-auto">
+          <br />
             <Jumbotron>
 
             

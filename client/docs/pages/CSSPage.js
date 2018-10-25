@@ -42,7 +42,7 @@ class CSSPage extends React.Component {
                   type="text"
                   className="form-control form-control-sm"
                   id="formGroupExampleInput"
-                  placeholder="Series? This really should be a Booleon button maybe?  IF it doesn't look like crap"
+                  placeholder="This Tutorial part of a series: true/false"
                 />
               </div><div className="form-group">
                 <label htmlFor="formGroupExampleInput"></label>

@@ -7,8 +7,9 @@ class ComponentsPage extends React.Component {
       <Container>
         <Row>
           <Col md="8" className="mt-3 mx-auto">
+          <br />
             <Jumbotron>
-
+                
                   <h4 className="mt-4 text-center mb-4">
                           <strong>Sign In</strong>
                         </h4>

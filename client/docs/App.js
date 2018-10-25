@@ -66,7 +66,7 @@ class App extends Component {
                     to="/"
                     onClick={this.closeCollapse("mainNavbarCollapse")}
                   >
-                    Index
+                    Welcome!
                   </NavLink>
                 </NavItem>
                 <NavItem>
@@ -74,7 +74,7 @@ class App extends Component {
                     onClick={this.closeCollapse("mainNavbarCollapse")}
                     to="/css"
                   >
-                    testPage/URL upload
+                    Tutorial URL
                   </NavLink>
                 </NavItem>
                 <NavItem>
