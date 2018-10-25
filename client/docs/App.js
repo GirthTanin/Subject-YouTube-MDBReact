@@ -125,14 +125,14 @@ class App extends Component {
                     Tutorials
                   </NavLink>
                 </NavItem>
-                {/* <NavItem>
+                <NavItem>
                   <NavLink
                     onClick={this.closeCollapse("mainNavbarCollapse")}
-                    to="/addons"
+                    to="/addons" 
                   >
-                    Addons
+                    LOG OUT
                   </NavLink>
-                </NavItem>    */}
+                </NavItem>   
               </NavbarNav>
             </Collapse>
           </Navbar>
