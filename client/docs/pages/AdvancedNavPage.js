@@ -8,8 +8,68 @@ class AdvancedPage extends React.Component {
         <Row>
           <Col md="8" className="mt-3 mx-auto">
             <Jumbotron>
-              <h1>
-                <Fa icon="code" className="grey-text" /> Advanced
+
+            
+            <form>
+              <p className="h4 text-center mb-4">Sign up</p>
+              <label htmlFor="defaultFormRegisterNameEx" className="grey-text">
+                Your name
+              </label>
+              <input
+                type="text"
+                id="defaultFormRegisterNameEx"
+                className="form-control"
+              />
+              <br />
+              <label htmlFor="defaultFormRegisterEmailEx" className="grey-text">
+                Your email
+              </label>
+              <input
+                type="email"
+                id="defaultFormRegisterEmailEx"
+                className="form-control"
+              />
+              <br />
+              <label
+                htmlFor="defaultFormRegisterConfirmEx"
+                className="grey-text"
+              >
+                Confirm your email
+              </label>
+              <input
+                type="email"
+                id="defaultFormRegisterConfirmEx"
+                className="form-control"
+              />
+              <br />
+              <label
+                htmlFor="defaultFormRegisterPasswordEx"
+                className="grey-text"
+              >
+                Your password
+              </label>
+              <input
+                type="password"
+                id="defaultFormRegisterPasswordEx"
+                className="form-control"
+              />
+              <div className="text-center mt-4">
+                <button className="btn btn-unique" type="submit">
+                  Register
+                </button>
+              </div>
+            </form>
+          
+
+
+
+
+
+
+
+
+              {/* <h1>
+                <Fa icon="code" className="grey-text" /> Gerbils!
               </h1>
               <ul className="list-unstyled example-components-list">
                 <h6 className="mt-3 grey-text">FREE </h6>
@@ -85,7 +145,7 @@ class AdvancedPage extends React.Component {
                     <Fa icon="angle-right" />
                   </h5>
                 </NavLink>
-              </ul>
+              </ul> */}
             </Jumbotron>
           </Col>
         </Row>

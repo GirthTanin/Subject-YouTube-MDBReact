@@ -1,6 +1,6 @@
 import React from "react";
 // import { Container, Row, Col, Jumbotron, Fa, NavLink } from "mdbreact";
-import { Container, Iframe } from "mdbreact";
+import { Container, Iframe, Button } from "mdbreact";
 import DocsLink from "./DocsLink";
 
 class CSSPage extends React.Component {
@@ -62,7 +62,10 @@ class CSSPage extends React.Component {
                   placeholder="Series Id: 1/4 or 64/81 for example"
                 />
               </div>
-            </form>
+              <Button outline color="success">
+            Submit
+          </Button>
+        </form>
       </Container>
     );
   }
