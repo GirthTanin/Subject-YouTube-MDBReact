@@ -1,5 +1,15 @@
 /* Here is my copy/version of mdb.css which keeps trying to revert to the default css that they set up for their repo, not my project. */
-
+.welcome {
+  text-align: center;
+  color: black;
+  background-image: url("./client/public/Watertown-Sunset.JPG");
+  height: 400px;
+  background-position: bottom;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  /* background-color:#121233; */
+}
 
 
 /*!

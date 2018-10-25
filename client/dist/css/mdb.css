@@ -345,6 +345,7 @@
   background-color: #303f9f !important; }
 
 .indigo.darken-3 {
+  /* background-color: #283593 !important; } */
   
   background-color: #880e4f !important;
   color: #fff !important;
@@ -1299,17 +1300,13 @@
 a {
   cursor: pointer;
   text-decoration: none;
-  /* I tried to make it red here */
-  color: red;
-  /* color: #007bff; */
+  color: #007bff;
   transition: all 0.2s ease-in-out; }
   a:hover {
     transition: all 0.2s ease-in-out;
     text-decoration: none; }
   a.disabled:hover, a:disabled:hover {
-    /* color: #007bff;  */
-    color: red;
-  }
+    color: #007bff; }
 
 a:not([href]):not([tabindex]), a:not([href]):not([tabindex]):focus, a:not([href]):not([tabindex]):hover {
   color: inherit;

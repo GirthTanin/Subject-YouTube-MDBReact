@@ -25,52 +25,54 @@ class HomePage extends React.Component {
               className="mx-auto float-none white z-depth-1 py-2 px-2"
             >
               <CardBody>
-                <h1 className="h2-responsive mb-4 text-center">
-                  <strong>[Subject] YouTube</strong>
-                </h1>
-                <p className="text-center ">Stay on target.  Video tutorials that don't lead one astray</p>
-                
-                {/* <Row className="d-flex flex-row justify-content-center row">
+                <h1 className="text-center">
+                <strong>[Subject] YouTube</strong></h1>
+                <br />
+                <h2 className="h2-responsive mb-4 text-center">
+                  <strong>Stay on Target Video Tutorials that don't lead one astray.</strong>
+                </h2> <br />
+                <p className= "pb-4 text-center">Distraction is all around.</p>
+                <p className="pb-4 text-center">
+                  Here is a calm place to observe and learn.
+                </p>
+                <Row className="d-flex flex-row justify-content-center row">
                   <a
                     className="border nav-link border-light rounded mr-1"
-                    href="https://mdbootstrap.com/react/"
+                    href="./css"
                     target="_blank"
                     rel="noopener noreferrer"
                   >
-                    <Fa icon="graduation-cap" className="mr-2" />
-                    Official Documentation
+                    <Fa icon="database" className="mr-2" />
+                    How does it work?
                   </a>
-                </Row> */}
+                </Row>
               </CardBody>
             </Col>
           </Row>
         </FreeBird>
-        <Container>
-          <Row>
-            <Col md="10" className="mx-auto mt-4">
-              <h2 className="text-center my-4 font-weight-bold">
-                Why is it so great?
-              </h2>
-              <p className="text-center">
-                Google has designed a Material Design to make the web more
-                beautiful and more user-friendly.
-              </p>
-              <p className="text-center">
-                Twitter has created a Bootstrap to support you in faster and
-                easier development of responsive and effective websites.
-              </p>
-              <p className="text-center">
-                We present you a framework containing the best features of both
-                of them - Material Design for Bootstrap.
-              </p>
-              </Col>
-            </Row>
-        </Container>
-      </div>
-    );
-  }
-}
+        </div>
+        )}};
 
+
+
+//         <Container>
+//           <Row>
+//             <Col md="10" className="mx-auto mt-4">
+//               <h2 className="text-center my-4 font-weight-bold">
+//                 Why is it so great?
+//               </h2>
+//               <p className="text-center">
+//                 Google has designed a Material Design to make the web more
+//                 beautiful and more user-friendly.
+//               </p>
+//               <p className="text-center">
+//                 Twitter has created a Bootstrap to support you in faster and
+//                 easier development of responsive and effective websites.
+//               </p>
+//               <p className="text-center">
+//                 We present you a framework containing the best features of both
+//                 of them - Material Design for Bootstrap.
+//               </p>
 //               <hr className="my-5" />
 //               <Row id="categories">
 //                 <Col md="4" className="mb-5">
