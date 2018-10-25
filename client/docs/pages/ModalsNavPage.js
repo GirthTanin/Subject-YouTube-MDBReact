@@ -14,28 +14,28 @@ class ComponentsPage extends React.Component {
               </h1>
               <Iframe height={500} src="https://www.youtube.com/embed/7DG3kCDx53c" />
               <ul className="list-unstyled example-components-list">
-                <h6 className="mt-3 grey-text">FREE Gerbils!</h6>
+                <h6 className="mt-3 grey-text">Tutorial List</h6>
                 <NavLink
                   className="list-group-item list-group-item-action"
-                  to="/modals/modal"
+                  to="/tables"
                 >
                   <h5
                     style={{ margin: "0" }}
                     className="justify-content-between d-flex align-items-center"
                   >
-                    Modal
+                    Next Video
                     <Fa icon="angle-right" />
                   </h5>
                 </NavLink>
                 <NavLink
                   className="list-group-item list-group-item-action"
-                  to="/modals/modal-form"
+                  to="/forms"
                 >
                   <h5
                     style={{ margin: "0" }}
                     className="justify-content-between d-flex align-items-center"
                   >
-                    Modal Form
+                    Previous Video
                     <Fa icon="angle-right" />
                   </h5>
                 </NavLink>

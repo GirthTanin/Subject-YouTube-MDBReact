@@ -56,7 +56,7 @@ class AdvancedPage extends React.Component {
               />
               <div className="text-center mt-4">
                 <button className="btn btn-unique" type="submit">
-                  Register
+                  Sign Up
                 </button>
               </div>
             </form>

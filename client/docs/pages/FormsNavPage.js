@@ -57,7 +57,7 @@ const ComponentsPage = props => {
 
     return (
       <Container>
-
+        <br /><br />
 
         <Row className="py-3">
         <Col md="12">
