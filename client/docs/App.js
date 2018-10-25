@@ -11,6 +11,7 @@ import {
 } from "mdbreact";
 import { BrowserRouter as Router } from "react-router-dom";
 import "./index.css";
+import Footer1 from "../src/componentsMine/footer1/Footer1";
 
 import Routes from "./Routes";
 
@@ -142,8 +143,8 @@ class App extends Component {
 
           <Footer color="indigo">
             <p className="footer-copyright mb-0 py-3 text-center">
-              &copy; {new Date().getFullYear()} Copyright:{" "}
-              <a href="https://www.MDBootstrap.com"> MDBootstrap.com </a>
+              Already a Member?{" "}
+              <a href="/components"> Sign In </a>
             </p>
           </Footer>
         </div>

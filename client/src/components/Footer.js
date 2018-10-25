@@ -13,7 +13,9 @@ class Footer extends Component {
     );
 
     return (
-      <Tag {...attributes} className={classes}>
+      <Tag 
+      {...attributes} 
+      className={classes}>
         {children}
       </Tag>
     );
